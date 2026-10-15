@@ -7,3 +7,9 @@
 <a href="https://www.linkedin.com/company/ai-rome"><img src="https://raw.githubusercontent.com/rome-hq/.github/main/profile/links/linkedin.png" alt="LinkedIn" height="28"></a>
 <a href="https://x.com/RomeAIHQ"><img src="https://raw.githubusercontent.com/rome-hq/.github/main/profile/links/x.png" alt="X" height="28"></a>
 <a href="https://www.crunchbase.com/organization/rome"><img src="https://raw.githubusercontent.com/rome-hq/.github/main/profile/links/crunchbase.png" alt="Crunchbase" height="28"></a>
+
+Founded by **Craig Weiss**, an early engineer at Scale AI, previously at Google, Facebook, Snap, Lyft and NASA.
+
+<a href="https://x.com/craigweiss"><img src="https://raw.githubusercontent.com/rome-hq/.github/main/profile/links/x.png" alt="Craig Weiss on X" height="28"></a>
+<a href="https://www.linkedin.com/in/craigweiss28/"><img src="https://raw.githubusercontent.com/rome-hq/.github/main/profile/links/linkedin.png" alt="Craig Weiss on LinkedIn" height="28"></a>
+<a href="https://github.com/canscaw28"><img src="https://raw.githubusercontent.com/rome-hq/.github/main/profile/links/github.png" alt="Craig Weiss on GitHub" height="28"></a>
